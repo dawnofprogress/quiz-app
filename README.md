@@ -2,6 +2,10 @@
 
 ## About
 Interactive science quiz testing knowledge across various topics with timed questions and instant feedback.
+
+## Live Link:
+https://dawnofprogress.github.io/quiz-app/
+
 ## Complete File Structure
 quiz-app/
 │
